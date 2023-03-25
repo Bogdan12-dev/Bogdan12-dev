@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">A passionate frontend/backand developer from Ukraine</h3>
+<h3 align="center">A passionate frontend/backend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **Python(flask,sqlalchemy) and js**
 
-- 👨‍💻 All of my projects are available at [my github profile(https://github.com/Bogdan12-dev)](my github profile(https://github.com/Bogdan12-dev))
+- 👨‍💻 All of my projects are available at my github profile - https://github.com/Bogdan12-dev
 
 - 📫 How to reach me **bogdankovalsky1@gmail.com**
 
