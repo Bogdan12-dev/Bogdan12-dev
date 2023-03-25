@@ -11,7 +11,7 @@
 <h4>My telegram : @Magicxxxxxxx<h4/>
 <h4>My discord : Magic#5886<h4/>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100051219502237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bogdan kovalsky" height="30" width="40" />My facebook:</a>
+<a href="https://www.facebook.com/profile.php?id=100051219502237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bogdan kovalsky" height="30" width="40" />My facebook</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
